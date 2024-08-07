@@ -56,7 +56,7 @@
 
 ## 2、实用库 / 框架
 
-[ametal](https://gitee.com/zlgopen/ametal)或[ametal](https://github.com/zlgopen/ametal)：AMetal是芯片级的裸机软件包，定义了跨平台的通用接口。
+[ametal](https://github.com/skyformat99/ametal)：AMetal是芯片级的裸机软件包，定义了跨平台的通用接口。
 
 [Melon](https://github.com/Water-Melon/Melon)：一个用于简化开发的 C 框架库。
 
