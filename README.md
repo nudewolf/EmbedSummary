@@ -62,8 +62,6 @@
 
 [zlog](https://github.com/HardySimpson/zlog)：一个高可靠性、高性能、纯C日志函数库。
 
-[EasyLogger](https://github.com/armink/EasyLogger)：一款超轻量级、高性能的 C/C++ 日志库。
-
 [Smartlink](https://github.com/jolin90/smartconfig)：Linux上实现的smartconfig。
 
 [airkissOpen](https://github.com/heyuanjie87/airkissOpen) ：腾讯airkiss协议解析库 。
